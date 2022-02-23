@@ -5,10 +5,18 @@ namespace JumpingPlatformGame {
 		public virtual Color Color => Color.Black;
 	}
 
+	//TODO: implement movable entity
 	class MovableEntity : Entity {
-	}
 
+
+
+
+
+	}
+	//TODO: implement MovableJumpingEntity
 	class MovableJumpingEntity : MovableEntity {
+
+
 	}
 
 	class Joe : MovableEntity {

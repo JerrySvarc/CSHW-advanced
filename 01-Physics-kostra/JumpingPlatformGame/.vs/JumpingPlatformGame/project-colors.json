@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c7763ab-f02b-4fa3-bc51-58977cf45488": {
+      "ProjectGuid": "2c7763ab-f02b-4fa3-bc51-58977cf45488",
+      "DisplayName": "JumpingPlatformGame",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Ostatní soubory",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
