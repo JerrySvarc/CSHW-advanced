@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4c0ef963-84c8-457f-9eea-fe535181e938": {
+      "ProjectGuid": "4c0ef963-84c8-457f-9eea-fe535181e938",
+      "DisplayName": "GamePhysics",
+      "ColorIndex": 0
+    },
+    "62ec5903-55f4-4653-a821-782c0f126b77": {
+      "ProjectGuid": "62ec5903-55f4-4653-a821-782c0f126b77",
+      "DisplayName": "JumpingPlatformGame",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

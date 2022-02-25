@@ -1,6 +1,0 @@
-E:\CS\CSHW-advanced\01-Physics-kostra\JumpingPlatformGame\JumpingPlatformGame\obj\Debug\JumpingPlatformGame.csproj.AssemblyReference.cache
-E:\CS\CSHW-advanced\01-Physics-kostra\JumpingPlatformGame\JumpingPlatformGame\obj\Debug\JumpingPlatformGame.csproj.SuggestedBindingRedirects.cache
-E:\CS\CSHW-advanced\01-Physics-kostra\JumpingPlatformGame\JumpingPlatformGame\obj\Debug\JumpingPlatformGame.MainForm.resources
-E:\CS\CSHW-advanced\01-Physics-kostra\JumpingPlatformGame\JumpingPlatformGame\obj\Debug\JumpingPlatformGame.Properties.Resources.resources
-E:\CS\CSHW-advanced\01-Physics-kostra\JumpingPlatformGame\JumpingPlatformGame\obj\Debug\JumpingPlatformGame.csproj.GenerateResource.cache
-E:\CS\CSHW-advanced\01-Physics-kostra\JumpingPlatformGame\JumpingPlatformGame\obj\Debug\JumpingPlatformGame.csproj.CoreCompileInputs.cache

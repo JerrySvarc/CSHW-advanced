@@ -1,0 +1,14 @@
+E:\CS\CSHW-advanced\01_Physics\GamePhysics\bin\Debug\netcoreapp3.1\GamePhysics.exe
+E:\CS\CSHW-advanced\01_Physics\GamePhysics\bin\Debug\netcoreapp3.1\GamePhysics.deps.json
+E:\CS\CSHW-advanced\01_Physics\GamePhysics\bin\Debug\netcoreapp3.1\GamePhysics.runtimeconfig.json
+E:\CS\CSHW-advanced\01_Physics\GamePhysics\bin\Debug\netcoreapp3.1\GamePhysics.runtimeconfig.dev.json
+E:\CS\CSHW-advanced\01_Physics\GamePhysics\bin\Debug\netcoreapp3.1\GamePhysics.dll
+E:\CS\CSHW-advanced\01_Physics\GamePhysics\bin\Debug\netcoreapp3.1\GamePhysics.pdb
+E:\CS\CSHW-advanced\01_Physics\GamePhysics\obj\Debug\netcoreapp3.1\GamePhysics.csproj.AssemblyReference.cache
+E:\CS\CSHW-advanced\01_Physics\GamePhysics\obj\Debug\netcoreapp3.1\GamePhysics.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS\CSHW-advanced\01_Physics\GamePhysics\obj\Debug\netcoreapp3.1\GamePhysics.AssemblyInfoInputs.cache
+E:\CS\CSHW-advanced\01_Physics\GamePhysics\obj\Debug\netcoreapp3.1\GamePhysics.AssemblyInfo.cs
+E:\CS\CSHW-advanced\01_Physics\GamePhysics\obj\Debug\netcoreapp3.1\GamePhysics.csproj.CoreCompileInputs.cache
+E:\CS\CSHW-advanced\01_Physics\GamePhysics\obj\Debug\netcoreapp3.1\GamePhysics.dll
+E:\CS\CSHW-advanced\01_Physics\GamePhysics\obj\Debug\netcoreapp3.1\GamePhysics.pdb
+E:\CS\CSHW-advanced\01_Physics\GamePhysics\obj\Debug\netcoreapp3.1\GamePhysics.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "JumpingPlatformGame": {
+      "commandName": "Project"
+    },
+    "Profil 1": {
+      "commandName": "Executable",
+      "executablePath": "E:\\CS\\CSHW-advanced\\01_Physics\\GamePhysics\\bin\\Debug\\netcoreapp3.1\\GamePhysics.exe"
+    }
+  }
+}
