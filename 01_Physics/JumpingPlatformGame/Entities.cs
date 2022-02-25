@@ -24,35 +24,11 @@ namespace JumpingPlatformGame {
 		public Heading Vertical;
 
 		public abstract void Update(Seconds deltaSeconds);
+		
     }
 
 	class MovableEntity : Entity {
-
-		public override void Update(Seconds deltaSeconds)
-		{
-			Meters newLocationX = (Location.X.Value + (deltaSeconds.Value * Horizontal.Speed.Value)).Meters();
-
-            if (newLocationX.Value < Horizontal.LowerBound.Value)
-            {
-				Location.X.Value = Horizontal.LowerBound.Value;
-				Horizontal.Speed.Value *= -1;
-			}
-			else if (newLocationX.Value > Horizontal.UpperBound.Value)
-            {
-				Location.X.Value = Horizontal.UpperBound.Value;
-				Horizontal.Speed.Value *= -1;
-			}
-            else
-            {
-				Location.X = newLocationX;
-            }
-		}
-	}
-
-	class MovableJumpingEntity : MovableEntity {
-
-
-		public override void Update(Seconds deltaSeconds)
+		public void MoveXDirection(Seconds deltaSeconds)
 		{
 			Meters newLocationX = (Location.X.Value + (deltaSeconds.Value * Horizontal.Speed.Value)).Meters();
 
@@ -70,9 +46,20 @@ namespace JumpingPlatformGame {
 			{
 				Location.X = newLocationX;
 			}
+		}
+		public override void Update(Seconds deltaSeconds)
+		{
+			MoveXDirection(deltaSeconds);
+		}
+	}
 
+	class MovableJumpingEntity : MovableEntity {
+
+
+		public void MoveYDirection(Seconds deltaSeconds)
+        {
 			Meters newLocationY = (Location.Y.Value + (deltaSeconds.Value * Vertical.Speed.Value)).Meters();
-			
+
 			if (newLocationY.Value < Vertical.LowerBound.Value)
 			{
 				Location.Y.Value = Vertical.LowerBound.Value;
@@ -86,6 +73,11 @@ namespace JumpingPlatformGame {
 			{
 				Location.Y = newLocationY;
 			}
+		}
+		public override void Update(Seconds deltaSeconds)
+		{
+			MoveXDirection(deltaSeconds);
+			MoveYDirection(deltaSeconds);
 		}
 	}
 
